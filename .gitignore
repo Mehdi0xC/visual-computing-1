@@ -1,0 +1,36 @@
+
+# Ignore Python byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore data
+# data/
+
+# Ignore wandb
+wandb/
+
+# Ignore checkpoints
+checkpoints/
+
+# Ignore temp
+temp/
+
+# Ignore output
+# output/
+
+# Ignore results
+results/
+
+# Ignore IDE specific files
+.idea/
+*.swp
+*.swo
+*.swn
